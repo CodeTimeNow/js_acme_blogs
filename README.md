@@ -6,6 +6,8 @@
 
 _Once you are working with your own copy of the project on Glitch..._
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09e264f8-387e-487f-9647-285e8c642928/deploy-status)](https://app.netlify.com/sites/ornate-madeleine-3f6928/deploys)
+
 **Follow the directions available in Blackboard** 
 
 _DO NOT CHANGE any of the pre-existing code. Your code only goes in main.js._
