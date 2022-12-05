@@ -2,11 +2,11 @@
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09e264f8-387e-487f-9647-285e8c642928/deploy-status)](https://app.netlify.com/sites/ornate-madeleine-3f6928/deploys)
+
 **Start by clicking the Remix on Glitch button above.**
 
 _Once you are working with your own copy of the project on Glitch..._
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/09e264f8-387e-487f-9647-285e8c642928/deploy-status)](https://app.netlify.com/sites/ornate-madeleine-3f6928/deploys)
 
 **Follow the directions available in Blackboard** 
 
